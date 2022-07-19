@@ -5,9 +5,8 @@ LEARNING OBJECTIVES:
 
 
 •  Understand  basic  operating  theory  of 
-multiple AI techniques, including (at time 
-of  writing)  Neural  Networks,  Transfer 
-Learning,  Clustering,  Recurrent  Neural 
+multiple AI techniques, including Neural  Networks,  Transfer 
+Learning,  Clustering,  Recurrent Neural 
 Networks,  Convolutional  Neural 
 Networks,  Generative  Models, 
 Generative  Adversarial  Networks,  and 
