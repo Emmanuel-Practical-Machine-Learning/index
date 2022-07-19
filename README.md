@@ -67,6 +67,12 @@ LEARNING OBJECTIVES:
 - Describe how CNNs learn and function
 - Understand style transfer
 
+### Lecture Materials 
+- Posted for your reference. You can use the links below to further your understanding.
+    - Source for our CNN lecture, including slides, text explanation, AND a youtube video: https://e2eml.school/how_convolutional_neural_networks_work.html 
+
+- The CNN visualizer we played with: http://scs.ryerson.ca/~aharley/vis/conv/flat.html 
+
 ### R3. Convolutional Neural Networks(CNNs) Reference 
 ### A5. Convolutional Neural Networks 
 - https://github.com/Emmanuel-Practical-Machine-Learning/a5-cnns
@@ -95,6 +101,11 @@ LEARNING OBJECTIVES:
 - Learn about various RNN applications and their usefulness
 - Experiment with an RNN to train and develop patterns to create sentences
 
+### Lecture Materials 
+- Brandon Rohrer Lecture Video: https://www.youtube.com/watch?v=WCUNPb-5EYI
+- Lecture Slides Part 1: https://docs.google.com/presentation/d/1-nKBXqADyqlqFmT7OhvK0iFkuscipRtPZAi7jaKBpPU/edit?usp=sharing
+
+- Lecture Slides Part 2: https://docs.google.com/presentation/d/1U9DQajo1aGV_QqsYnPmAcZoxYOYsbeUnSCJ2qJb43G4/edit?usp=sharing
 ### R8. Readings for RNNs (LSTMs)
 ### A8. RNN Applications Discussion 
 ### A10. RNNs
@@ -117,9 +128,8 @@ LEARNING OBJECTIVES:
 ### A11. Generative Adversarial Networks (GANs)
 - https://github.com/Emmanuel-Practical-Machine-Learning/a11-GANs
 ### R11b. Adversarial Attacks 
-- These two have a lot of overlap, but I think it's good because between them you should get enough:
-    - https://towardsdatascience.com/fooling-neural-networks-with-adversarial-examples-8afd36258a03
-    - https://openai.com/blog/adversarial-example-research/
+- https://towardsdatascience.com/fooling-neural-networks-with-adversarial-examples-8afd36258a03
+- https://openai.com/blog/adversarial-example-research/
 - if you want to try it yourself, here are the steps! It uses a system called Juptyer Notebook, which is an editor/tool for working and writing int he Python language.
     - https://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/ 
 ## Unit 8: Reinforcement Learning 
@@ -127,3 +137,5 @@ LEARNING OBJECTIVES:
 - Understand reinforcement learning and how it differs from GANs and RNNs
 
 ### R12. Reinforcement Learning 
+#### Lecture Slides
+- Natalie Lao: https://docs.google.com/presentation/d/1Z-s5l9SpfGRYKnPMp6R4XGnTt_LKd7TozUVaFTmqY2Y/edit?usp=sharing
