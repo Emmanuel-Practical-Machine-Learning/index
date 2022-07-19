@@ -16,6 +16,8 @@ Reinforcement Learning.
 data, learning, and implementation, and 
 critique existing systems for inequity. 
 
+• Understand societal impacts of bias in artificial intelligence and machine learning
+
 • Learn current known methods of attack 
 against AI systems, primarily adversarial 
 AI  attacks  which  “fool”  systems  into 
@@ -60,7 +62,7 @@ LEARNING OBJECTIVES:
 
 ## Unit 4: Convolutional Neural Network (CNNs)
 LEARNING OBJECTIVES: 
-- Define kernal convolutions and deep learning 
+- Define kernel convolutions and deep learning 
 - Identify their roles in convolutional neural networks
 - Describe how CNNs learn and function
 - Understand style transfer
@@ -73,7 +75,7 @@ LEARNING OBJECTIVES:
 LEARNING OBJECTIVES: 
 - Understand latent space in relation to machine learning
 - Use Word2Vec to see how latent space creates analogies and relationships between data points
-- Experiment with SpaceSheet to understand patterns within latent space
+- Experiment with SpaceSheet to understand patterns and operations within latent spaces
 
 ### R6. Generative Models Reading
 - Base Reading: https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d 
@@ -84,7 +86,7 @@ LEARNING OBJECTIVES:
 
 ### A6. Embeddings and Generative Models 
 - https://github.com/Emmanuel-Practical-Machine-Learning/a6-generative-models 
-### A7. Spacesheets
+### A7. Spacesheet
 - https://github.com/Emmanuel-Practical-Machine-Learning/a7-spacesheets
 
 ## Unit 6: Recurrent Neural Networks (RNNs)
@@ -102,7 +104,7 @@ LEARNING OBJECTIVES:
 LEARNING OBJECTIVES: 
 - Understand the function and processes of GANS
 - Learn about the advantages and disadvantages of GANS
-- Explore the GAN playground to find ideal combinations of hyperperameters
+- Explore the GAN playground to find ideal combinations of hyperparameters
 
 
 ### R11. GAN Reading and Review
