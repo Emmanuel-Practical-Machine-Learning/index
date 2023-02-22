@@ -24,7 +24,17 @@ AI  attacks  which  “fool”  systems  into
 producing incorrect results. 
 
 ## Assignments 
-A0: https://github.com/Emmanuel-Practical-Machine-Learning/index/tree/main/A0 
+* A0 Play with Teachable Machine: https://github.com/Emmanuel-Practical-Machine-Learning/index/tree/main/A0
+* A1 Teachable Machine Experiments: https://github.com/Emmanuel-Practical-Machine-Learning/index/tree/main/A1
+* A2 Image Classifier Application: https://github.com/Emmanuel-Practical-Machine-Learning/a2-image-classifier
+* A3 Multilayer Models with Model Builder: https://github.com/Emmanuel-Practical-Machine-Learning/a3-model-builder
+* A4 Ethics Discussion: https://github.com/Emmanuel-Practical-Machine-Learning/index/tree/main/A4 
+* A5 Convolutional Neural Networks: https://github.com/Emmanuel-Practical-Machine-Learning/a5-cnns
+* A6 Embeddings and Generative Models: https://github.com/Emmanuel-Practical-Machine-Learning/a6-generative-models 
+* A7 Latent Spaces with SpaceSheet: https://github.com/Emmanuel-Practical-Machine-Learning/a7-spacesheets 
+* A8 RNN Applications Discusion: https://github.com/Emmanuel-Practical-Machine-Learning/index/blob/main/A8/A8.md 
+* A9 RNNs: https://github.com/Emmanuel-Practical-Machine-Learning/a9-rnns 
+* A10 GANs: https://github.com/Emmanuel-Practical-Machine-Learning/a10-GANs 
 
 ## Unit 1: KNN and Transfer Learning 
 LEARNING OBJECTIVES:  
