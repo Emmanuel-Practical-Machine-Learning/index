@@ -23,6 +23,8 @@ against AI systems, primarily adversarial
 AI  attacks  which  “fool”  systems  into 
 producing incorrect results. 
 
+## Assignments 
+A0: https://github.com/Emmanuel-Practical-Machine-Learning/index/tree/main/A0 
 
 ## Unit 1: KNN and Transfer Learning 
 LEARNING OBJECTIVES:  
